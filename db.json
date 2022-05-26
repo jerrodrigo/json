@@ -1,25 +1,25 @@
 {
   "result": [
     {
-      "Periodo": "202203",
+      "Periodo": 202203,
       "Formula": "H_EXTRAS60%",
       "Rut": "0017890675-K",
       "HorasExtras": 3.2,
-      "CentroCosto": "132020202"
+      "CentroCosto": 132020202
     },
     {
-      "Periodo": "202204",
+      "Periodo": 202204,
       "Formula": "H_EXTRAS70%",
       "Rut": "0019499965-8",
       "HorasExtras": 4.2,
-      "CentroCosto": "142020202"
+      "CentroCosto": 142020202
     },
     {
-      "Periodo": "202205",
+      "Periodo": 202205,
       "Formula": "H_EXTRAS80%",
       "Rut": "0015451899-1",
       "HorasExtras": 5.2,
-      "CentroCosto": "152020202"
+      "CentroCosto": 152020202
     }
   ]
 }
