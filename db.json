@@ -1,17 +1,17 @@
 {
   "result": [
     {
+      "Periodo": 202204,
+      "Formula": "H_HEXTRA",
+      "Rut": "0014126762-0",
+      "HorasExtras": 8.2,
+      "CentroCosto": 1
+    },
+    {
       "Periodo": 202203,
       "Formula": "H_HEXTRA",
       "Rut": "0017890675-K",
       "HorasExtras": 3.2,
-      "CentroCosto": 1
-    },
-    {
-      "Periodo": 202204,
-      "Formula": "H_HEXTRA",
-      "Rut": "0014126762-0",
-      "HorasExtras": 4.2,
       "CentroCosto": 1
     },
     {
