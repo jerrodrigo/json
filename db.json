@@ -1,24 +1,52 @@
 {
   "result": [
     {
-      "Periodo": 202204,
+      "Periodo": 202201,
       "Formula": "H_HEXTRA1",
       "Rut": "0014126762-0",
-      "HorasExtras": 8.0,
+      "HorasExtras": 1.1,
+      "CentroCosto": 1
+    },
+    {
+      "Periodo": 202202,
+      "Formula": "H_HEXTRA1",
+      "Rut": "0014126762-0",
+      "HorasExtras": 2.2,
       "CentroCosto": 1
     },
     {
       "Periodo": 202203,
       "Formula": "H_HEXTRA1",
-      "Rut": "0017890675-K",
-      "HorasExtras": 3.2,
+      "Rut": "0014126762-0",
+      "HorasExtras": 3.3,
+      "CentroCosto": 1
+    },
+    {
+      "Periodo": 202204,
+      "Formula": "H_HEXTRA1",
+      "Rut": "0014126762-0",
+      "HorasExtras": 4.4,
       "CentroCosto": 1
     },
     {
       "Periodo": 202205,
       "Formula": "H_HEXTRA1",
-      "Rut": "0015451899-1",
-      "HorasExtras": 5.2,
+      "Rut": "0014126762-0",
+      "HorasExtras": 5.5,
+      "CentroCosto": 1
+    },
+    {
+      "Periodo": 202206,
+      "Formula": "H_HEXTRA1",
+      "Rut": "0017890675-K",
+      "HorasExtras": 6.6,
+      "CentroCosto": 1
+    },
+    {
+      "Periodo": 202207,
+      "Formula": "H_HEXTRA1",
+      "Rut": "0014126762-0",
+      "HorasExtras": 7.7,
       "CentroCosto": 2
     }
   ]
