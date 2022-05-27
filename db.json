@@ -27,7 +27,20 @@
       "Rut": "0014126762-0",
       "HorasExtras": 4.4,
       "CentroCosto": 1
+    },
+    {
+      "Periodo": 202205,
+      "Formula": "H_HEXTRA1",
+      "Rut": "0014126762-0",
+      "HorasExtras": 4.4,
+      "CentroCosto": 1
+    },
+    {
+      "Periodo": 202206,
+      "Formula": "H_HEXTRA1",
+      "Rut": "0014126762-0",
+      "HorasExtras": 4.4,
+      "CentroCosto": 1
     }
-    
   ]
 }
